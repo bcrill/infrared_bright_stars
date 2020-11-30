@@ -1,6 +1,6 @@
 # Bright Stars in the Near Infrared
 
-In this repo, here are some tools for gathering existing catalog data
+This repo contains some tools for gathering and examining catalog data to determine rough SEDs from 0.5 to 5 microns for the brightest stars -- those that are likely to be missing from Gaia or WISE products
 
 ## Data products
 * 2MASS point source catalog - just the brightest sources [here](https://www.dropbox.com/s/1fal0yx37oqd4ra/bright2mass.fits?dl=0) (12 MB) Documentation [here](https://old.ipac.caltech.edu/2mass/releases/allsky/doc/sec2_2a.html)
